@@ -1,0 +1,13 @@
+export { default as sad } from './Sad.svelte';
+export { default as surprise } from './Surprise.svelte';
+export { default as smile } from './Smile.svelte';
+export { default as smileTeeth } from './SmileTeeth.svelte';
+export { default as default } from './Default.svelte';
+export { default as defaultBig } from './DefaultBig.svelte';
+export { default as conserned } from './Conserned.svelte';
+export { default as consernedTeeth } from './ConsernedTeeth.svelte';
+export { default as twinkle } from './Twinkle.svelte';
+export { default as serious } from './Serious.svelte';
+export { default as grimace } from './Grimace.svelte';
+export { default as kiss } from './Kiss.svelte';
+export { default as tongue } from './Tongue.svelte';
