@@ -1,0 +1,10 @@
+<svg width="100" height="40" viewBox="0 0 100 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="100" height="40" fill="#1E1E1E"/>
+<g id="Avatars - 01">
+<rect width="5660" height="7270" transform="translate(-1600 -640)" fill="white"/>
+<g id="eyes/closed">
+<path id="eye-right" d="M91.836 17C90.293 20.532 86.769 23 82.668 23C78.567 23 75.043 20.532 73.5 17" stroke="#00004D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="eye-left" d="M25.836 17C24.293 20.532 20.769 23 16.668 23C12.567 23 9.043 20.532 7.5 17" stroke="#00004D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="100" height="40" viewBox="0 0 100 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="100" height="40" fill="#1E1E1E"/>
+<g id="Avatars - 01">
+<rect width="5660" height="7270" transform="translate(-1600 -1480)" fill="white"/>
+<g id="eyes/tired">
+<path id="eye-left" fill-rule="evenodd" clip-rule="evenodd" d="M19.8171 26.8171C25.0061 24.9281 27.6821 19.1891 25.7941 14.0001L7.00012 20.8401C8.88812 26.0301 14.6281 28.7061 19.8171 26.8171Z" fill="#00004D"/>
+<path id="eye-right" fill-rule="evenodd" clip-rule="evenodd" d="M79.5827 26.8171C74.3937 24.9281 71.7167 19.1891 73.6057 14.0001L92.3997 20.8401C90.5107 26.0301 84.7717 28.7061 79.5827 26.8171Z" fill="#00004D"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="320" height="140" viewBox="0 0 320 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="320" height="140" fill="#1E1E1E"/>
+<g id="Avatars - 01">
+<rect width="5660" height="7270" transform="translate(-3140 -1220)" fill="white"/>
+<g id="clothing/shirt">
+<g id="shirt">
+<path id="Fill 1" fill-rule="evenodd" clip-rule="evenodd" d="M290.964 68.2354C280.352 52.8844 264.707 41.7264 246.736 36.6924L220.057 29.2174L209 11.0004H205V18.4904L160 60.0004L159.999 59.9994L115 18.4904V11.0004H111L99.944 29.2174L73.264 36.6924C55.293 41.7264 39.649 52.8844 29.036 68.2354L0 110.239V140H320V110.24L290.964 68.2354Z" fill="#80C43B"/>
+<path id="Stroke 4" d="M99.9436 29.2178L126.251 83.7498L160.001 59.9998" stroke="#00004D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Stroke 6" d="M160 60.0001L193.75 83.7501L211.297 47.3751" stroke="#00004D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</svg>
